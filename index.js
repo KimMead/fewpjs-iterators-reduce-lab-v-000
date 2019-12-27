@@ -5,6 +5,6 @@ function batteryCounter(totalAmount) {
 
 }
 
-  
+
 }
 // Code your solution here
